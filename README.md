@@ -14,7 +14,6 @@
     - [Tech Stack ](#tech-stack-)
   - [💻 Getting Started ](#-getting-started-)`
     - [Setup](#setup)
-    - [Install](#install)
     - [Run the seeder](#run-the-seeder)
     - [Run the App](#run-the-app)
     - [Run Test](#run-test)
@@ -38,7 +37,7 @@ admission is granted.
   <summary>Frontend</summary>
   <ul>
     <li><a href=https://www.w3schools.com/html/>HTML5</a></li>
-    <li><a https://www.w3schools.com/css/>CSS3</a></li>
+    <li><a href=https://www.w3schools.com/css/>CSS3</a></li>
     <li><a href="https://www.javascript.com/">Javascript</a></li>
   </ul>
 </details>
@@ -62,19 +61,7 @@ git clone https://github.com/evansnyamekye/Middle-School.git
 2. To access the project directory
 
 ```bash
-cd evans-portfolio
-```
-
-### Install
-
-```bash
-npm install
-
-```
-### Run the App
-
-```bash
-npm start
+cd middle-school
 ```
 
 ```npm start
